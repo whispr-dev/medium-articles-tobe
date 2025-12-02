@@ -1,5 +1,5 @@
 
-OG Gemini 3 Thinking prompt:
+OG Gemini Pro 3 'Thinking' prompt:
 
 ---
 
